@@ -1,4 +1,3 @@
-![MasterHead](https://d1le3ohiuslpz1.cloudfront.net/skillcrush/wp-content/uploads/2022/05/15-essential-front-end-developer-skills1.png.webp)
 <h1 align="center">Hi 👋, I'm Shahnaz Rustamli</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 
