@@ -9,14 +9,7 @@
 
 - 📫 How to reach me: **shahnazrustamli@gmail.com**
 
-- ⚡ Fun fact: **I used to see everything as "if-else", now I see patterns and trends in data!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/şahnaz rüstəmli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="şahnaz rüstəmli" height="30" width="40" /></a>
-<a href="https://instagram.com/rustamli_sh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rustamli_sh" height="30" width="40" /></a>
-<a href="https://discord.gg/Shahnaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Shahnaz" height="30" width="40" /></a>
-</p>
+- ⚡ Fun fact: **I turn raw data into meaningful stories and actionable insights!**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
